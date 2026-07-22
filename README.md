@@ -53,9 +53,9 @@ Counter-App/
 
 ## Screenshot
 
-![alt text](<img_readme\Screenshot 2026-07-22 170455.png>)
-![alt text](<img_readme\Screenshot 2026-07-22 171010.png>)
-![alt text](<img_readme\Screenshot 2026-07-22 171029.png>)
+<img width="1055" height="938" alt="Screenshot 2026-07-22 170455" src="https://github.com/user-attachments/assets/c5d7ccb0-641f-452e-846d-e24b995fd955" />
+<img width="585" height="593" alt="Screenshot 2026-07-22 171010" src="https://github.com/user-attachments/assets/6f369ece-b0d2-4a09-98c9-5b73acb0ee6f" />
+<img width="681" height="636" alt="Screenshot 2026-07-22 171029" src="https://github.com/user-attachments/assets/689f9514-985c-42dc-b15e-03565deb085f" />
 
 ---
 
